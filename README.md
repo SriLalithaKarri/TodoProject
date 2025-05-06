@@ -23,7 +23,7 @@ The app allows users to add, filter, edit, and delete tasks while also saving th
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 - LocalStorage API (for persistence)
 
 
